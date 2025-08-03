@@ -6,3 +6,4 @@ This is a minimal ABAP class for Steampunk/BTP that prints "Hello World" to the 
 Implements the required interface for ADT execution and outputs a message using `out->write`.
 
 ## Output:
+Hello World from ABAP Cloud!
